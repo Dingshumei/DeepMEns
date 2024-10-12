@@ -1,6 +1,6 @@
 # DeepMEns: an ensemble model for predicting of sgRNA on-target activity based on multiple features
 ## Environment
- The algorithm mainly uses the following packages:
+The algorithm mainly uses the following packages:
 - python=3.7
 - tensorFlow==2.4.1
 - keras==2.10.0
